@@ -9,3 +9,4 @@ cp -f /home/peter/mount/new_webserver/Pictures/cam3.jpg /home/peter/mount/new_we
 cp -f /home/peter/mount/new_webserver/Pictures/cam2.jpg /home/peter/mount/new_webserver/Pictures/cam3.jpg
 cp -f /home/peter/mount/new_webserver/Pictures/cam1.jpg /home/peter/mount/new_webserver/Pictures/cam2.jpg
 cp -f /home/peter/mount/new_webserver/Pictures/cam.jpg /home/peter/mount/new_webserver/Pictures/cam1.jpg
+test
